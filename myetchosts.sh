@@ -1,4 +1,4 @@
-!/bin/bash
+#!/bin/bash
 
 cat /etc/hosts | while read ip nume rest
 do
