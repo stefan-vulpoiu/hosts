@@ -1,1 +1,2 @@
-sarcini laborator - exercitiul 2 - lab 6 - itbi
+# hostsMesaj ex5
+# Modificat ex5 2
